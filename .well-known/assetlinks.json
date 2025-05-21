@@ -2,7 +2,7 @@
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
-      "namespace": "shifdr app",
+      "namespace": "android_app",
       "package_name": "com.shifdr.shifdrapp",
       "sha256_cert_fingerprints": [
         "B1:94:E6:C8:DE:85:F7:6B:FC:5C:FC:4F:40:76:EE:D0:F8:27:7D:30:4E:3E:42:CF:11:0D:84:86:CE:B8:CF:57"
